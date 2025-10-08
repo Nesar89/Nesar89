@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile  
 ### *Md Nesar Uddin Sorkar*  
- Research Associate | B.Sc. and M.Sc. in Statistics (Shahjalal University of Science & Technology, Sylhet 3114, Bangladesh)  
+ Research Associate (GPHRF)| B.Sc. and M.Sc. in Statistics (Shahjalal University of Science & Technology, Sylhet 3114, Bangladesh)  
  Bangladesh | [nesarsust@gmail.com](mailto:nesarsust@gmail.com)  
  [LinkedIn](https://linkedin.com/in/md-nesar-uddin-sorkar-a4a0a4158) | [ORCID](https://orcid.org/0000-0003-2754-1707)
 
