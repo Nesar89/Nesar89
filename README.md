@@ -93,7 +93,7 @@ Complete `.do` file for cleaning, merging, and computing **total household consu
 Stata `.do` file developed for conducting **data validation and logical consistency checks** on the *Hypertension Project (Bangladesh)* dataset.  
 The script identifies mismatched identifiers, implausible values, and invalid interview codes to ensure data accuracy prior to statistical analysis.  
 *Keywords:* `Stata`, `data validation`, `logical checks`, `health survey`, `data quality`  
-[View Repository]()
+[View Repository](https://github.com/Nesar89/Root-GitHub-Repos/tree/main/Hyper_proj_Data_Valida_Consis_Check_Stata)
 
 ---
 
