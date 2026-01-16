@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile  
 ### *Md Nesar Uddin Sorkar*  
- Lecturer in Computer Science and Engineering (Leading University)| B.Sc. and M.S. in Statistics (Shahjalal University of Science & Technology, Sylhet 3114, Bangladesh)  
+ Lecturer in Computer Science and Engineering Department (Leading University)| B.Sc. and M.S. in Statistics (Shahjalal University of Science & Technology, Sylhet 3114, Bangladesh)  
  Bangladesh | [nesarsust@gmail.com](mailto:nesarsust@gmail.com)  
  [LinkedIn](https://linkedin.com/in/md-nesar-uddin-sorkar-a4a0a4158) | [ORCID](https://orcid.org/0000-0003-2754-1707)
 
